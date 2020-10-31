@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# dataset (too large)
+dataset/lmd_matched
+dataset/lmd_matched_h5
