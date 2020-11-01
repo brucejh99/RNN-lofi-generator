@@ -28,4 +28,5 @@ model.summary()
 
 # In compiling, we need to pass in things like loss
 # model.compile()
+
 # model.fit()
