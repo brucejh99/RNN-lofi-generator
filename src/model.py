@@ -1,6 +1,5 @@
 import numpy as np
 import tensorflow as tf
-import magenta
 from numpy import array
 from tensorflow import keras
 from tensorflow.keras import layers
