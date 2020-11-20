@@ -1,6 +1,0 @@
-note_seq==0.0.1
-tensorflow==2.3.0
-numpy==1.18.5
-tables==3.6.1
-pygame==2.0.0
-note_seq==0.0.1
